@@ -1,0 +1,1 @@
+Представление Mysql базы находиться в файле database/socialnetworkDB
